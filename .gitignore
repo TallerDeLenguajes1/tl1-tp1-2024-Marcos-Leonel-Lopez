@@ -1,2 +1,11 @@
 *.exe
 ignorado.txt
+*.app
+*.bat
+*.cgi
+*.com
+*.gadget
+*.jar
+*.pif
+*.vb
+*.wsf
